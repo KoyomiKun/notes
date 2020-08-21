@@ -1,5 +1,5 @@
 # Fluent Python
-## Chapter 1
+## Chapter1 List
 
 ### 1.1 生成器表达式
 生成器表达式更适合用来创建序列类型，因为其背后遵守了迭代器协议，可以逐个产生元素，更加节省内存
@@ -158,6 +158,4 @@ print(memv_oct.tolist())  # [254, 255, 255, 255, 0, 0, 1, 0, 2, 0]
 ```
 
 'h' means `short` , 'B' means `unsigned short` 
-
-
 
