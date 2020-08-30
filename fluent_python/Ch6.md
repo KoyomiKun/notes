@@ -64,6 +64,14 @@ for i in range(3):
 1
 2
 ```
+***Compare between == and is*** :
+
+1. `==` compare the value , and `is` compare the tag
+
+2. `is` is faster than `==` 
+
+
+
 
 
 
